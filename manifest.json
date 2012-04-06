@@ -1,0 +1,12 @@
+{
+  "name": "Terjime",
+  "version": "1.0.1",
+  "description": "Terjime.com extension for chrome",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "popup": "popup.html"
+  },
+  "permissions": [
+    "http://www.terjime.com/"
+  ]
+}
